@@ -9,6 +9,7 @@ int d =50;
 
     int b=20;
     int f=50;
+    String hh="fsdf";
 
     String s="myc";
 }
