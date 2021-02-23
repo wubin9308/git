@@ -8,4 +8,5 @@ String ss="hahha";
 int d =50;
 
     int b=20;
+    int f=50;
 }
