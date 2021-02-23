@@ -1,6 +1,7 @@
 package com.sc.git;
 
 public class Test {
-int a =10;
+int a =100;
+
 
 }
